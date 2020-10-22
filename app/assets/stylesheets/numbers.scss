@@ -1,16 +1,18 @@
 body {
-  background: #ccc;
+  background: tan;
   color: #fff;
   font-family: 'Courier New', sans-serif;
   font-size: 16px;
   font-weight: bold;
+  background-size: 250px;
+  background-image: image-url("animal_chara_computer_neko.png");
 }
 
 #top-container {
   height: 40px;
   background-color: snow;
   border-radius: 10px;
-  color: lightpink;
+  color: rgb(241, 141, 156);
   text-align: center;
   justify-content: center;
   padding-top: 6px;
@@ -19,6 +21,7 @@ body {
   font-size: x-large;
   margin-left: 150px;
   margin-right: 150px;
+  text-shadow: 1px 2px 0 slategrey;
 }
 
 #container {
@@ -75,3 +78,4 @@ body {
   margin-top: 12px;
   box-shadow: none;
 }
+
