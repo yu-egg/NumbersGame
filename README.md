@@ -2,7 +2,7 @@
 
 # NumbersGame!!
 ### topは下記画像です
-![.png]()
+![NumberGame.png]()
 
 ## 🌐 App URL
 
