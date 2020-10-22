@@ -2,7 +2,7 @@
 
 # NumbersGame!!
 ### topは下記画像です
-![NumberGame.png](https://github.com/yu-egg/NumbersGame/blob/master/NumberGame.png?raw=true)
+![neko-numbers.png](https://github.com/yu-egg/NumbersGame/blob/master/neko-numbers.png?raw=true)
 
 ## 🌐 App URL
 
